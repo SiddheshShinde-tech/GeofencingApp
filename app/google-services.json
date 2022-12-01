@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "997754798659",
+    "firebase_url": "https://siddhesh-geofencing-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "siddhesh-geofencing",
+    "storage_bucket": "siddhesh-geofencing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997754798659:android:4f904dd335c39748d74af6",
+        "android_client_info": {
+          "package_name": "com.example.geofencingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997754798659-b0l2sjsrejcbfvg6i2ausaj1nbgu7038.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuckcY-s1KaeGZ0XIFsgWAK0cJdO3aVqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997754798659-b0l2sjsrejcbfvg6i2ausaj1nbgu7038.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997754798659:android:2a7fbc03306f4dd2d74af6",
+        "android_client_info": {
+          "package_name": "com.example.geofencingjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997754798659-b0l2sjsrejcbfvg6i2ausaj1nbgu7038.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuckcY-s1KaeGZ0XIFsgWAK0cJdO3aVqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997754798659-b0l2sjsrejcbfvg6i2ausaj1nbgu7038.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
